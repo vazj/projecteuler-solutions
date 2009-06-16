@@ -1,3 +1,4 @@
+#labels Featured
 Have fun!
 
 {{{
@@ -254,6 +255,7 @@ http://code.google.com/p/projecteuler-solutions/
 246. 
 247. 
 248. 
-
+249. 
+250. 
 
 }}}
