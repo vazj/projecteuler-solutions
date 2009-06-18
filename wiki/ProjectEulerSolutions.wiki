@@ -1,7 +1,7 @@
 #labels Featured
 Have fun!
 
-<pre>
+{{{
 
 
 Project Euler solutions collected by Luckytoilet
@@ -258,4 +258,4 @@ http://code.google.com/p/projecteuler-solutions/
 249.
 250. 
 
-</pre>
+}}}
