@@ -4,7 +4,7 @@ Have fun!
 {{{
 
 
-Project Euler solutions collected by Luckytoilet, zouyu9631
+Project Euler solutions collected by Luckytoilet, zouyu9631, sarseny
 http://code.google.com/p/projecteuler-solutions/
 
 1. 233168
