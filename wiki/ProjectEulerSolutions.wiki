@@ -1,5 +1,5 @@
 #labels Featured
-Have fun!
+<span style="color:red;"> SPOILERS BELOW; PLEASE CLOSE IMMEDIATELY IF YOU WANT TO SOLVE THE PROBLEMS FOR YOURSELF!!! </span>
 
 {{{
 
