@@ -1,1 +1,53 @@
-(to be completed)
+from	ed_r <noreply@projecteuler.net>
+to	Crappytoilet <luckytoilet@gmail.com>
+date	Wed, Jul 1, 2009 at 3:33 PM
+subject	Please hide solutions
+hide details 3:33 PM (2 hours ago)
+You have received the following message from ed_r at Project Euler:
+
+"CrappyToilet"/"LuckyToilet",
+
+The Project Euler team have been alerted to the existence of your web site, http://projecteuler.tk/, which contains nearly all PE solutions in full public view.
+
+We strongly discourage this. It detracts from the spirit of independent mathematical investigation upon which Project Euler is based and, at its worst, may lead solvers who are just researching techniques straight to the full answer.
+
+Ideally, we would like you to remove the web site. If you are not able or willing to do that, could you please consider password-protecting it, or introducing some other means of preventing web surfers "accidentally" finding these solutions?
+
+Thanks in anticipation,
+
+The Project Euler Team.
+
+To reply to this message please use the link below:
+http://projecteuler.net/index.php?section=contact&target=ed_r&subject=Re:+Please+hide+solutions
+
+
+	from	Crappytoilet <noreply@projecteuler.net>
+to	Crappytoilet <luckytoilet@gmail.com>
+date	Wed, Jul 1, 2009 at 6:12 PM
+subject	FYI: Re: Please hide solutions
+hide details 6:12 PM (0 minutes ago)
+You sent the following message to ed_r at Project Euler:
+
+Hello,
+
+I have followed your advice and made it difficult to 'accidently' see the answers. How?
+
+If you look on this page:
+http://code.google.com/p/projecteuler-solutions/wiki/ProjectEulerSolutions
+
+and this page:
+http://code.google.com/p/projecteuler-solutions/
+
+you will find that very obvious spoiler warnings exist, making it rather difficult to 'accidently' find the solutions.
+
+I will also point out that any cheater can find the solutions in many other places:
+
+http://code.google.com/p/sempr-projecteuler/
+http://d.hatena.ne.jp/jeneshicc/archive
+http://d.hatena.ne.jp/inamori/archive
+http://www.haskell.org/haskellwiki/Euler_problems
+
+...more.
+
+Regards,
+"Luckytoilet"/"Crappytoilet"
