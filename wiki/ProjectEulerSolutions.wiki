@@ -47,7 +47,7 @@ SPOILERS BELOW; PLEASE CLOSE IMMEDIATELY IF YOU WANT TO SOLVE THE PROBLEMS FOR Y
 
 {{{
 
-Project Euler solutions collected by luckytoilet, zouyu9631(4), sarseny(1), mythealias(1), dmitrybrant(1)
+Project Euler solutions collected by luckytoilet, zouyu9631(4), sarseny(2), mythealias(1), dmitrybrant(1)
 http://code.google.com/p/projecteuler-solutions/
 
 1. 233168
