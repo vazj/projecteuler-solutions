@@ -12,4 +12,12 @@ There are certain people who will want solutions to Project Euler. This could be
 
 It is, of course, possible to abuse these solutions and simply paste solutions one by one to gain ranks. This is rather pointless, as doing so will gain you nothing. Also, accounts doing this will be removed quickly. With the CAPTCHA system introduced in an update, it is no longer possible to facilitate this by using an automated program to submit solutions.
 
+===How did I obtain these solutions?===
+
+Most of the solutions were obtained from somewhere on the Internet. No other site has the solutions to the entire set of 250+ problems. Also, some solutions were contributed by users of this site.
+
+===Why are some solutions wrong?===
+
+All solutions here have been tested at least once, but it is not impossible that a mistake might occur. Occasionally, some problem parameters change. Why, I don't know. In that case I will fix it when I find out about it, whenever that may be.
+
 under construction
