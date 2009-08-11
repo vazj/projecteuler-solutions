@@ -19,5 +19,3 @@ Most of the solutions were obtained from somewhere on the Internet. No other sit
 ===Why are some solutions wrong?===
 
 All solutions here have been tested at least once, but it is not impossible that a mistake might occur. Occasionally, some problem parameters change. Why, I don't know. In that case I will fix it when I find out about it, whenever that may be.
-
-under construction
