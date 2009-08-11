@@ -1,3 +1,15 @@
 #summary About projecteuler-solutions
 
+===What is projecteuler-solutions?===
+
+As the name suggests, projecteuler-solutions is a collection of solutions for site Project Euler, which is a collection of math and programming related problems. You can find Project Euler at (<a href="http://projecteuler.net">http://projecteuler.net</a>). This site aims to provide complete and accurate solution listings for Project Euler.
+
+===What is the purpose of this site?===
+
+There are certain people who will want solutions to Project Euler. This could be of a variety of reasons. Often on some difficult problems you will get stuck and frustrated and look for a solution on the internet rather than try to solve a problem yourself. This website provides such solutions, so that you may have access to the forums of that problem and view solutions of other people. Hopefully by doing this, you will have gained something.
+
+===What about cheating?===
+
+It is, of course, possible to abuse these solutions and simply paste solutions one by one to gain ranks. This is rather pointless, as doing so will gain you nothing. Also, accounts doing this will be removed quickly. With the CAPTCHA system introduced in an update, it is no longer possible to facilitate this by using an automated program to submit solutions.
+
 under construction
