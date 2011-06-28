@@ -1,12 +1,12 @@
 #labels Featured
 Visit our forums at http://eulersolutions.49.forumer.com (no registration required)!
 
-{{{
+<pre>
 Project Euler solutions collected by Luckytoilet and others.
 http://code.google.com/p/projecteuler-solutions/
 http://eulersolutions.49.forumer.com/
 
-1. 233168
+ 1. 233168
 2. 4613732
 3. 6857
 4. 906609
@@ -349,5 +349,4 @@ http://eulersolutions.49.forumer.com/
 341. 56098610614277014
 342. 
 343. 269533451410884183
-
-}}}
+</pre>
