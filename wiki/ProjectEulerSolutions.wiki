@@ -485,7 +485,7 @@ http://eulersolutions.fr.yuku.com/
 477.
 478.
 479. 191541795
-480.
+480. turnthestarson
 481.
 482.
 483.
@@ -502,7 +502,7 @@ http://eulersolutions.fr.yuku.com/
 494.
 495.
 496.
-497.
+497. 684901360
 498.
 499. 0.8660312
 500. 35407281
