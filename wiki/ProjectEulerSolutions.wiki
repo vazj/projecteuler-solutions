@@ -1,5 +1,5 @@
 #labels Featured
-Visit our forums at http://eulersolutions.49.forumer.com (no registration required)!
+Visit our forums at http://eulersolutions.fr.yuku.com/
 
 <pre>
 Project Euler solutions collected by Luckytoilet and others.
